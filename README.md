@@ -13,3 +13,5 @@ OPEN_CAGE_DATA_KEY=8c0892514e884f09af7c09a9b067b02b
 # Getting started
 1. ```npm install```
 2. ```npm run dev```
+
+https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407
